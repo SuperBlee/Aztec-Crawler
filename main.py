@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """
 This is the file to generate the Aztec Medical Dictionary.
 First Catch a ID list from "http://bioportal.bioontology.org/ontologies/MESH/?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD000602"
@@ -9,6 +11,7 @@ import requests
 import json
 import time
 import os
+import logging
 
 APIKEY = "apikey=80a85487-ab74-4a87-9ad2-5c1255962a76"
 
@@ -99,23 +102,35 @@ if __name__ == "__main__":
     newSynonym = []
     os.remove("results/vocabs.txt")
     os.remove("results/syn.txt")
-    with open("results/vocabs.txt", "w") as vocabFile, open("results/syn.txt", "w") as synFile:
+    with open("results/vocabs.txt", "w") as vocabFile, \
+            open("results/syn.txt", "w") as synFile, \
+            open("Exception.txt", "w") as exp:
         while curIndex < len(urlList):
-            # Get the current sub-url
-            curURL  = urlList[curIndex]
+            try:
+                # Get the current sub-url
+                curURL  = urlList[curIndex]
 
-            childrenWords, childSyns, childrenURLs = fetchChildrenInfo(curURL) # Fetch all the children's name and url
+                childrenWords, childSyns, childrenURLs = fetchChildrenInfo(curURL) # Fetch all the children's name and url
 
-            urlList = urlList + childrenURLs # Concatenate the lists
+                urlList = urlList + childrenURLs # Concatenate the lists
 
-            # newMedWords.append(childrenWords)
-            # newSynonym += childSyn
-            if childrenWords is not None:
-                vocabFile.write(childrenWords+"\n")
-            if len(childSyns) != 0:
-                for childSyn in childSyns:
-                    synFile.write(childSyn+"\n")
-            print "Now at index # {}, {} in total.".format(str(curIndex), str(len(urlList)))
+                # newMedWords.append(childrenWords)
+                # newSynonym += childSyn
 
-            curIndex += 1 # Update the curIndex
+                if childrenWords is not None:
+                    vocabFile.write(childrenWords+"\n")
+                if len(childSyns) != 0:
+                    for childSyn in childSyns:
+                        synFile.write(childSyn+"\n")
+                if curIndex%50 == 0:
+                    print "Now at index # {}, {} in total.".format(str(curIndex), str(len(urlList)))
+                curIndex += 1  # Update the curIndex
+            except IOError:
+                exp.write("IOError\n")
+            except UnicodeEncodeError:
+                exp.write("UnicodeEncodeError\n")
+            except:
+                exp.write("Other Errors\n")
+
+
 
