@@ -10,3 +10,6 @@ It downloads the medical-related vocabularies from [here](http://bioportal.bioon
 
 Good luck.
 
+==Update==
+
+On April 1st, we obtained the preliminary result of the dictionary. Please use `load.py` to load the result.
