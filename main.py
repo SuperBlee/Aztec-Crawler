@@ -8,7 +8,7 @@ Then in each ID, fetch the word and then recursively go into its child.
 
 from bs4 import BeautifulSoup
 import requests
-import json
+import ujson as json
 import time
 import os
 import logging
@@ -118,19 +118,20 @@ if __name__ == "__main__":
                 # newSynonym += childSyn
 
                 if childrenWords is not None:
-                    vocabFile.write(childrenWords+"\n")
-                if len(childSyns) != 0:
-                    for childSyn in childSyns:
-                        synFile.write(childSyn+"\n")
+                    # vocabFile.write(str(curIndex)+childrenWords+"\n")
+                    # if len(childSyns) != 0:
+                        # synFile.write(str(curIndex)+"\n")
+                        # for childSyn in childSyns:
+                          #  synFile.write(childSyn+"\n")
+                    childDict = {childrenWords : childSyns}
+                    vocabFile.write(json.dumps(childDict)+"\n")
+
                 if curIndex%50 == 0:
                     print "Now at index # {}, {} in total.".format(str(curIndex), str(len(urlList)))
                 curIndex += 1  # Update the curIndex
-            except IOError:
-                exp.write("IOError\n")
-            except UnicodeEncodeError:
-                exp.write("UnicodeEncodeError\n")
             except:
                 exp.write("Other Errors\n")
+                curIndex += 1
 
 
 
