@@ -1,0 +1,2079 @@
+Amino Acids, Peptides, and Proteins
+Anesthesia and Analgesia
+Animal Diseases
+Animal Structures
+Archaea
+Bacteria
+Bacterial Infections and Mycoses
+Bacterial Structures
+Behavior and Behavior Mechanisms
+Behavioral Disciplines and Activities
+Biological Factors
+Biological Phenomena
+Biomedical and Dental Materials
+Body Regions
+Carbohydrates
+Cardiovascular Diseases
+Cardiovascular System
+Cell Physiological Phenomena
+Cells
+Chemical Actions and Uses
+Chemical Phenomena
+Chemically-Induced Disorders
+Circulatory and Respiratory Physiological Phenomena
+Complex Mixtures
+Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+Dentistry
+Diagnosis
+Digestive System
+Digestive System and Oral Physiological Phenomena
+Digestive System Diseases
+Disorders of Environmental Origin
+Education
+Embryonic Structures
+Endocrine System
+Endocrine System Diseases
+Environment and Public Health
+Enzymes and Coenzymes
+Equipment and Supplies
+Eukaryota
+Eye Diseases
+Female Urogenital Diseases and Pregnancy Complications
+Fluids and Secretions
+Food and Beverages
+Fungal Structures
+Genetic Phenomena
+Geographic Locations
+Health Care Economics and Organizations
+Health Care Facilities, Manpower, and Services
+Health Care Quality, Access, and Evaluation
+Health Occupations
+Health Services Administration
+Hemic and Immune Systems
+Hemic and Lymphatic Diseases
+Heterocyclic Compounds
+Hormones, Hormone Substitutes, and Hormone Antagonists
+Human Activities
+Humanities
+Immune System Diseases
+Immune System Phenomena
+Information Science
+Inorganic Chemicals
+Integumentary System
+Integumentary System Physiological Phenomena
+Investigative Techniques
+Lipids
+Macromolecular Substances
+Male Urogenital Diseases
+Mathematical Concepts
+Mental Disorders
+MeSH Descriptors
+MeSH Qualifiers
+MeSH Supplementals
+Metabolism
+Microbiological Phenomena
+Musculoskeletal and Neural Physiological Phenomena
+Musculoskeletal Diseases
+Musculoskeletal System
+Natural Science Disciplines
+Neoplasms
+Nervous System
+Nervous System Diseases
+Non-Medical Public and Private Facilities
+Nucleic Acids, Nucleotides, and Nucleosides
+Nutritional and Metabolic Diseases
+Occupational Diseases
+Ocular Physiological Phenomena
+Organic Chemicals
+Organism Forms
+Otorhinolaryngologic Diseases
+Parasitic Diseases
+Pathological Conditions, Signs and Symptoms
+Persons
+Pharmaceutical Preparations
+Physical Phenomena
+Physiological Phenomena
+Plant Physiological Phenomena
+Plant Structures
+Polycyclic Compounds
+Population Characteristics
+Psychological Phenomena and Processes
+Publication Components
+Publication Formats
+Reproductive and Urinary Physiological Phenomena
+Respiratory System
+Respiratory Tract Diseases
+Sense Organs
+Skin and Connective Tissue Diseases
+Social Sciences
+Stomatognathic Diseases
+Stomatognathic System
+Study Characteristics
+Support of Research
+Surgical Procedures, Operative
+Technology, Industry, and Agriculture
+Therapeutics
+Tissues
+Urogenital System
+Viral Structures
+Virus Diseases
+Viruses
+Wounds and Injuries
+Amino Acids
+Proteins
+Peptides
+Preanesthetic Medication
+Anesthesia Recovery Period
+Hypotension, Controlled
+Neuromuscular Blockade
+Analgesia
+Deep Sedation
+Conscious Sedation
+Electronarcosis
+Anesthesia
+Myxomatosis, Infectious
+Enterotoxemia
+Lameness, Animal
+Bird Diseases
+Cat Diseases
+Disease Models, Animal
+Rodent Diseases
+Foot Rot
+Pseudorabies
+Pythiosis
+Parturient Paresis
+Salmonella Infections, Animal
+Dog Diseases
+Peste-des-Petits-Ruminants
+Digital Dermatitis
+Anaplasmosis
+Keratoconjunctivitis, Infectious
+Sheep Diseases
+Mammary Neoplasms, Animal
+Parasitic Diseases, Animal
+Actinobacillosis
+Horse Diseases
+Aleutian Mink Disease
+Goat Diseases
+Paratuberculosis
+Mink Viral Enteritis
+Primate Diseases
+Erysipelothrix Infections
+Fish Diseases
+Rinderpest
+Abortion, Veterinary
+Steatitis
+Heartwater Disease
+Vesicular Stomatitis
+Cattle Diseases
+Pleuropneumonia, Contagious
+Borna Disease
+Foot-and-Mouth Disease
+Swine Diseases
+Hepatitis, Animal
+Venereal Tumors, Veterinary
+Muscular Dystrophy, Animal
+Wasting Disease, Chronic
+Zoonoses
+Anal Gland Neoplasms
+Electric Organ
+Gills
+Air Sacs
+Arthropod Antennae
+Comb and Wattles
+Vibrissae
+Egg Shell
+Cloaca
+Malpighian Tubules
+Perianal Glands
+Stomach, Ruminant
+Metrial Gland
+Mammary Glands, Animal
+Lateral Line System
+Tail
+Photoreceptor Cells, Invertebrate
+High Vocal Center
+Feathers
+Fat Body
+Salt Gland
+Beak
+Hindlimb
+Hemolymph
+Hoof and Claw
+Hepatopancreas
+Wool
+Interrenal Gland
+Nictitating Membrane
+Gizzard, Non-avian
+Imaginal Discs
+Ganglia, Invertebrate
+Crop, Avian
+Oviducts
+Animal Shells
+Stomach, Avian
+Harderian Gland
+Optic Lobe, Nonmammalian
+Anal Sacs
+Bursa of Fabricius
+Mushroom Bodies
+Ultimobranchial Body
+Animal Fins
+Compound Eye, Arthropod
+Scent Glands
+Head Kidney
+Horns
+Nematocyst
+Embryo, Nonmammalian
+Forelimb
+Corpora Allata
+Korarchaeota
+Euryarchaeota
+Crenarchaeota
+Nanoarchaeota
+Proteobacteria
+Agricultural Inoculants
+Bacteroidetes
+Spirochaetales
+Nitrogen-Fixing Bacteria
+Gram-Negative Bacteria
+Endospore-Forming Bacteria
+Chlorobi
+Sulfur-Reducing Bacteria
+Atypical Bacterial Forms
+Bacteria, Anaerobic
+Chloroflexi
+Bacteria, Thermoduric
+Acidobacteria
+Firmicutes
+Gram-Positive Bacteria
+Cyanobacteria
+Bacteria, Aerobic
+Fusobacteria
+Mycoses
+Infection
+Bacterial Infections
+Central Nervous System Infections
+Zoonoses
+Pili, Sex
+Magnetosomes
+Bacterial Capsules
+Ribosome Subunits, Small, Bacterial
+Ribosome Subunits, Large, Bacterial
+Chromosomes, Bacterial
+Purple Membrane
+Bacterial Chromatophores
+Fimbriae, Bacterial
+Human Development
+Defense Mechanisms
+Mental Competency
+Temperance
+Adaptation, Psychological
+Emotions
+Personality
+Psychology, Social
+Attitude
+Child Rearing
+Neurobehavioral Manifestations
+Behavior
+Human Characteristics
+Motivation
+Behavior Control
+Behavioral Sciences
+Mental Health Services
+Psychological Tests
+Psychiatric Status Rating Scales
+Psychoanalytic Interpretation
+Psychological Techniques
+Psychiatric Somatic Therapies
+Psychotherapy
+Schizophrenic Psychology
+Personality Assessment
+Inflammation Mediators
+Chemotactic Factors
+Biomarkers
+Pheromones
+Blood Coagulation Factors
+Blood Coagulation Factor Inhibitors
+Pigments, Biological
+Host-Derived Cellular Factors
+Alarmins
+Toxins, Biological
+Intercellular Signaling Peptides and Proteins
+Pathogen-Associated Molecular Pattern Molecules
+Antigens
+Phytochemicals
+Host-Seeking Behavior
+Life History Traits
+Allelopathy
+Biological Evolution
+Symbiosis
+Species Specificity
+Animal Distribution
+Origin of Life
+Antibiosis
+Remission, Spontaneous
+Organelle Biogenesis
+Regeneration
+Tissue Survival
+Adaptation, Biological
+Extinction, Biological
+Recovery of Function
+Pigmentation
+Colony Collapse
+Ecological and Environmental Phenomena
+Host-Pathogen Interactions
+Tissue Adhesives
+Biocompatible Materials
+Alloys
+Cariostatic Agents
+Membranes, Artificial
+Dermal Fillers
+Pharmaceutical Preparations, Dental
+Dental Materials
+Cariogenic Agents
+Dentifrices
+Root Canal Irrigants
+Polymers
+Mouthwashes
+Bone Cements
+Torso
+Extremities
+Breast
+Viscera
+Transplants
+Perineum
+Organs at Risk
+Anatomic Landmarks
+Trigger Points
+Transplant Donor Site
+Neck
+Head
+Sugar Acids
+Sugar Phosphates
+Glycoconjugates
+Sugar Alcohols
+Dietary Carbohydrates
+Monosaccharides
+Deoxy Sugars
+Glycosides
+Polysaccharides
+Amino Sugars
+Cardiovascular Abnormalities
+Heart Diseases
+Vascular Diseases
+Pregnancy Complications, Cardiovascular
+Cardiovascular Infections
+Blood-Retinal Barrier
+Blood-Nerve Barrier
+Blood-Brain Barrier
+Blood Vessels
+Heart
+Blood-Air Barrier
+Blood-Testis Barrier
+Glomerular Filtration Barrier
+Blood-Aqueous Barrier
+Cell Count
+Cell Fusion
+Endocytosis
+Organelle Shape
+Receptor Cross-Talk
+Lymphocyte Cooperation
+Cell Shape
+Cell Dedifferentiation
+Cell Membrane Permeability
+Cell Death
+Cell Differentiation
+Cell Compartmentation
+Mitochondrial Turnover
+Cell Adhesion
+Cell Lineage
+Cell Survival
+Signal Transduction
+Membrane Fusion
+Contact Inhibition
+Receptor Aggregation
+Cytoplasmic Streaming
+Organelle Size
+Cell Polarity
+Cell Movement
+Endoplasmic Reticulum Stress
+Cell-in-Cell Formation
+Cell Cycle
+DNA Packaging
+Organelle Biogenesis
+Cellular Microenvironment
+Cell Size
+Clonal Evolution
+Cell Aging
+Cell Growth Processes
+Cell Communication
+Cell Respiration
+Radiation Tolerance
+Exocytosis
+Membrane Fluidity
+Re-Epithelialization
+Mitochondrial Swelling
+Cell Transdifferentiation
+Membrane Potentials
+Antigen-Presenting Cells
+Muscle Cells
+Thymocytes
+Neuroglia
+Pancreatic Stellate Cells
+Stem Cells
+Mesophyll Cells
+Connective Tissue Cells
+Pericytes
+Spores
+Neurons
+Epithelial Cells
+Phagocytes
+Spheroplasts
+Chromaffin Cells
+Germ Cells
+Oxyphil Cells
+Neoplastic Cells, Circulating
+Reed-Sternberg Cells
+Hepatic Stellate Cells
+Blood Cells
+Bone Marrow Cells
+Plant Cells
+Myeloid Cells
+Antibody-Producing Cells
+Acinar Cells
+Cellular Structures
+Prokaryotic Cells
+Cells, Cultured
+Endocrine Cells
+Giant Cells
+Eukaryotic Cells
+Cells, Immobilized
+Protoplasts
+Erythroid Cells
+Specialty Uses of Chemicals
+Toxic Actions
+Pharmacologic Actions
+Ion Exchange
+Specific Gravity
+Desiccation
+Osmosis
+Organic Chemistry Phenomena
+Hydrogen-Ion Concentration
+Evolution, Chemical
+Dimerization
+Proton-Motive Force
+Polymerization
+Hydrophobic and Hydrophilic Interactions
+Hydrogen Bonding
+Spontaneous Combustion
+Molecular Structure
+Biochemical Phenomena
+Surface Properties
+Osmolar Concentration
+Molecular Weight
+Photochemical Processes
+Particle Size
+Corrosion
+Neutron Diffraction
+Absorption
+Permeability
+Air Ionization
+Phase Transition
+Diffusion
+Crystallization
+X-Ray Diffraction
+Dialysis
+Viscosity
+Oxidation-Reduction
+Catalysis
+Anisotropy
+Drug Liberation
+Filtration
+Energy Transfer
+Adsorption
+Hydrolysis
+Solubility
+Chemical Precipitation
+Substance-Related Disorders
+Drug-Related Side Effects and Adverse Reactions
+Poisoning
+Respiratory Physiological Phenomena
+Cardiovascular Physiological Phenomena
+Blood Physiological Phenomena
+Ambergris
+Tars
+Freund's Adjuvant
+Particulate Matter
+Biofuels
+Fossil Fuels
+Venoms
+Tissue Extracts
+Soil
+Biological Products
+Acid Rain
+Manure
+Vehicle Emissions
+Colloids
+Radioactive Pollutants
+Waste Products
+Lignin
+Congenital Abnormalities
+Genetic Diseases, Inborn
+Fetal Diseases
+Infant, Newborn, Diseases
+Esthetics, Dental
+Dental High-Speed Technique
+Myofunctional Therapy
+Jaw Relation Record
+Air Abrasion, Dental
+Dental Models
+Odontometry
+Dental Atraumatic Restorative Treatment
+School Dentistry
+General Practice, Dental
+Dental Pins
+Dental Research
+Military Dentistry
+Endodontics
+Dental Care
+Diagnosis, Oral
+Prosthodontics
+Infection Control, Dental
+Technology, Dental
+Dental Stress Analysis
+Pathology, Oral
+Periodontics
+Anesthesia, Dental
+Dentistry, Operative
+Mouth Rehabilitation
+Forensic Dentistry
+Tooth Preparation
+Electrogalvanism, Intraoral
+Oral Surgical Procedures
+Dental Polishing
+Dental Health Surveys
+Dental Occlusion
+Oral Medicine
+Dental Equipment
+Tooth Remineralization
+Geriatric Dentistry
+Dental Bonding
+Specialties, Dental
+Preventive Dentistry
+Orthodontics
+Surgery, Oral
+Occupational Dentistry
+Evidence-Based Dentistry
+Dental Debonding
+Prognosis
+Delayed Diagnosis
+Theranostic Nanomedicine
+Diagnosis, Differential
+Early Diagnosis
+Prodromal Symptoms
+Clinical Decision-Making
+Diagnosis, Dual (Psychiatry)
+Diagnostic Errors
+Incidental Findings
+Diagnosis, Computer-Assisted
+Diagnostic Techniques and Procedures
+Biliary Tract
+Pancreas
+Liver
+Gastrointestinal Tract
+Digestive System Physiological Phenomena
+Dental Physiological Phenomena
+Digestive System Fistula
+Liver Diseases
+Gastrointestinal Diseases
+Peritoneal Diseases
+Pancreatic Diseases
+Digestive System Abnormalities
+Biliary Tract Diseases
+Digestive System Neoplasms
+Preconception Injuries
+Environmental Illness
+Teaching
+Education, Nonprofessional
+International Educational Exchange
+Education, Professional
+Schools
+Mentoring
+Education, Premedical
+Inservice Training
+Educational Measurement
+Needs Assessment
+Education, Predental
+Education, Distance
+Curriculum
+Urachus
+Pronephros
+Neural Plate
+Cloaca
+Neural Crest
+Primitive Streak
+Cleavage Stage, Ovum
+Blastomeres
+Organizers, Embryonic
+Zygote
+Placenta
+Germ Layers
+Gestational Sac
+Wolffian Ducts
+Mullerian Ducts
+Neural Tube
+Embryo, Mammalian
+Ovum
+Fetus
+Morula
+Gubernaculum
+Mesonephros
+Limb Buds
+Embryo, Nonmammalian
+Gastrula
+Branchial Region
+Notochord
+Vitelline Duct
+Chromaffin System
+Endocrine Glands
+Enteroendocrine Cells
+Neurosecretory Systems
+Endocrine Gland Neoplasms
+Gonadal Disorders
+Adrenal Gland Diseases
+Female Athlete Triad Syndrome
+Diabetes Mellitus
+Tuberculosis, Endocrine
+Pituitary Diseases
+Polyendocrinopathies, Autoimmune
+Dwarfism
+Thyroid Diseases
+Bone Diseases, Endocrine
+Parathyroid Diseases
+Environment
+Public Health Dentistry
+Public Health
+Enzymes
+Coenzymes
+Cytochromes
+Enzyme Precursors
+Contraceptive Devices
+Surgically-Created Structures
+Intermittent Pneumatic Compression Devices
+Ventilators, Mechanical
+Gas Scavengers
+Equipment and Supplies, Hospital
+Bioreactors
+Durable Medical Equipment
+Needles
+Transdermal Patch
+Quantum Dots
+Gastric Balloon
+X-Ray Film
+Infusion Pumps
+Oxygenators
+Radiation Equipment and Supplies
+Infant Equipment
+Incubators
+Optical Devices
+Bandages
+Atmosphere Exposure Chambers
+Compressed Air
+Catheters
+Medicine Chests
+Bathroom Equipment
+Culture Media
+Emergency Medical Tags
+Disposable Equipment
+Tourniquets
+Electrical Equipment and Supplies
+Diagnostic Equipment
+Gravity Suits
+Feminine Hygiene Products
+Surgical Equipment
+Capillary Tubing
+Diffusion Chambers, Culture
+Gamma Cameras
+Exoskeleton Device
+Humidifiers
+Nanospheres
+Air Filters
+Microspheres
+Tomography Scanners, X-Ray Computed
+Thermometers
+Protective Devices
+Dental Equipment
+Phantoms, Imaging
+Prostheses and Implants
+Micropore Filters
+Self-Help Devices
+Nebulizers and Vaporizers
+X-Ray Intensifying Screens
+Reagent Kits, Diagnostic
+Radio Frequency Identification Device
+Syringes
+Microbubbles
+Sensory Aids
+Haptophyta
+Diplomonadida
+Alveolata
+Animals
+Retortamonadidae
+Rhizaria
+Euglenozoa
+Plants
+Oxymonadida
+Mesomycetozoea
+Parabasalidea
+Stramenopiles
+Fungi
+Amoebozoa
+Choanoflagellata
+Cryptophyta
+Eye Diseases, Hereditary
+Conjunctival Diseases
+Eye Abnormalities
+Uveal Diseases
+Ocular Motility Disorders
+Eye Injuries
+Eye Neoplasms
+Scleral Diseases
+Eyelid Diseases
+Lens Diseases
+Refractive Errors
+Corneal Diseases
+Eye Hemorrhage
+Asthenopia
+Pupil Disorders
+Vision Disorders
+Ocular Hypotension
+Lacrimal Apparatus Diseases
+Orbital Diseases
+Vitreous Detachment
+Eye Infections
+Eye Manifestations
+Cogan Syndrome
+Retinal Diseases
+Optic Nerve Diseases
+Ocular Hypertension
+Female Urogenital Diseases
+Pregnancy Complications
+Bodily Secretions
+Gastrointestinal Contents
+Feces
+Exudates and Transudates
+Body Fluids
+Hyalin
+Amniotic Fluid
+Beverages
+Food
+Mycelium
+Mycorrhizae
+Fruiting Bodies, Fungal
+Chromosomes, Fungal
+Sporangia
+Fungal Capsules
+Heredity
+Genotype
+Consanguinity
+Genetic Fitness
+Gene Order
+DNA Replication
+Cellular Reprogramming
+Sympatry
+Gene Expression
+Genetic Load
+Hybrid Vigor
+Recombination, Genetic
+Virus Integration
+Mutagenesis
+Gene Frequency
+Inheritance Patterns
+Biological Evolution
+Selection, Genetic
+Sex Ratio
+Nucleic Acid Denaturation
+Genetic Structures
+Genetic Linkage
+Genetic Variation
+Phylogeny
+RNA Cleavage
+Breeding
+Cell Division
+Structural Homology, Protein
+DNA Repair
+Ploidies
+DNA Transformation Competence
+Gene Rearrangement
+Sequence Homology
+DNA Packaging
+Gene Expression Regulation
+Clonal Evolution
+DNA Methylation
+Genetic Background
+Phenotype
+Inbreeding Depression
+Genomic Instability
+Sex Determination Processes
+DNA Cleavage
+Gene Pool
+Founder Effect
+Molecular Mimicry
+DNA Damage
+Oceans and Seas
+Africa
+Americas
+Europe
+Arctic Regions
+Oceania
+Cities
+Antarctic Regions
+Asia
+Islands
+Historical Geographic Locations
+Policy
+Economics
+State Medicine
+Organizations
+Health Planning
+State Dentistry
+Dual MEDICAID MEDICARE Eligibility
+Technology Assessment, Biomedical
+Social Control, Formal
+Health Services
+Health Promotion
+Maintenance
+Health Communication
+Capacity Building
+Housekeeping
+Health Manpower
+Health Facilities
+Health Personnel
+Health Services Research
+Public Health Systems Research
+Ethics
+Quality Assurance, Health Care
+Delivery of Health Care
+Quality of Health Care
+Chiropractic
+Serology
+Dentistry
+Pharmacology
+Psychology, Medical
+Veterinary Medicine
+Specialization
+Toxicology
+Health Services Administration
+Podiatry
+Medicine
+Nursing
+Medical Illustration
+Sociology, Medical
+Evidence-Based Practice
+Biomedical Engineering
+Acupuncture
+Allied Health Occupations
+Nursing, Practical
+Pharmacy
+Hospital Administration
+Orthoptics
+Environmental Health
+Optometry
+Mortuary Practice
+Nutritional Sciences
+Patient Care Management
+Intersectoral Collaboration
+Organization and Administration
+Quality of Health Care
+Immune System
+Blood
+Hematopoietic System
+Hematologic Diseases
+Lymphatic Diseases
+Heterocyclic Compounds, Bridged-Ring
+Acids, Heterocyclic
+Alkaloids
+Heterocyclic Compounds, Fused-Ring
+Heterocyclic Compounds, 1-Ring
+Heterocyclic Oxides
+Hormone Antagonists
+Hormones
+Retirement
+Exercise
+Automobile Driving
+Diet Fads
+Nudism
+Leisure Activities
+Travel
+Anti-Vaccination Movement
+Survival
+Activities of Daily Living
+Temperance Movement
+Work
+Philosophy
+Knowledge
+Occultism
+Awards and Prizes
+History
+Music
+Nature
+Religion
+Romanticism
+Secularism
+Art
+Literature
+Autoimmune Diseases
+Hypersensitivity
+Immunologic Deficiency Syndromes
+Glomerulonephritis, Membranoproliferative
+Immune Reconstitution Inflammatory Syndrome
+Purpura, Thrombocytopenic
+Transfusion Reaction
+Immunoproliferative Disorders
+Erythroblastosis, Fetal
+Graft vs Host Disease
+Phagocytosis
+Antibody-Dependent Enhancement
+Transplantation Immunology
+Tumor Escape
+Cytotoxicity, Immunologic
+Antigen-Antibody Reactions
+Antibody Affinity
+Immunocompetence
+Lymphocyte Cooperation
+Immunity
+Clonal Selection, Antigen-Mediated
+HIV Seronegativity
+Antibody Specificity
+Immunocompromised Host
+Antibody Formation
+Lymphocyte Activation
+Neutrophil Activation
+Dose-Response Relationship, Immunologic
+Immunogenetic Phenomena
+Seroconversion
+Immune Evasion
+Complement Activation
+Binding Sites, Antibody
+Histamine Release
+Neutrophil Infiltration
+Immunogenicity, Vaccine
+Immunologic Surveillance
+Antigen Presentation
+CD4-CD8 Ratio
+Immunomodulation
+Blood Group Incompatibility
+Postcards as Topic
+Metadata
+Information Storage and Retrieval
+Calendars as Topic
+Knowledge
+Information Management
+Chronology as Topic
+Data Collection
+Pattern Recognition, Automated
+Communications Media
+Information Centers
+Computer Security
+Data Display
+Information Services
+Publishing
+Library Science
+Copying Processes
+Informatics
+Communication
+Computing Methodologies
+Systems Analysis
+Classification
+Information Theory
+Book Collecting
+Oxygen Compounds
+Vanadium Compounds
+Chromium Compounds
+Silicon Compounds
+Sulfur Compounds
+Minerals
+Potassium Compounds
+Calcium Compounds
+Sodium Compounds
+Salts
+Ruthenium Compounds
+Elements
+Bromine Compounds
+Isotopes
+Zinc Compounds
+Boron Compounds
+Gold Compounds
+Nitrogen Compounds
+Mercury Compounds
+Coordination Complexes
+Selenium Compounds
+Lithium Compounds
+Thorium Compounds
+Free Radicals
+Aluminum Compounds
+Silver Compounds
+Alkalies
+Osmium Compounds
+Electrolytes
+Carbon Compounds, Inorganic
+Uranium Compounds
+Acids
+Tin Compounds
+Arsenicals
+Cadmium Compounds
+Fluorine Compounds
+Platinum Compounds
+Phosphorus Compounds
+Technetium Compounds
+Gases
+Barium Compounds
+Chlorine Compounds
+Iron Compounds
+Magnesium Compounds
+Tungsten Compounds
+Iodine Compounds
+Metals
+Manganese Compounds
+Skin
+Hair
+Nails
+Skin Physiological Phenomena
+Hair Color
+Containment of Biohazards
+Parabiosis
+Airway Extubation
+Magnetometry
+Wavelet Analysis
+Ergometry
+Endpoint Determination
+Microscopy
+Whole Body Imaging
+Optical Tweezers
+Artifacts
+Embryo Research
+Substance Abuse Detection
+Micromanipulation
+Euthanasia, Animal
+Immersion
+Immunologic Techniques
+Equipment Reuse
+Biomedical Enhancement
+Cytological Techniques
+Cementation
+Microchip Analytical Procedures
+Equipment Failure
+Methods
+Epidemiologic Methods
+Finite Element Analysis
+Olfactometry
+Thermometry
+Autopsy
+Bioprospecting
+Weightlessness Simulation
+Ecological Parameter Monitoring
+Neoplasm Transplantation
+Therapeutic Irrigation
+Preservation, Biological
+Biological Assay
+Centrifugation
+Equipment Safety
+Physical Stimulation
+Radiometry
+Weightlessness Countermeasures
+Clinical Laboratory Techniques
+Weights and Measures
+Catheterization
+Human Experimentation
+Models, Animal
+Photography
+Trauma Severity Indices
+Hardness Tests
+Models, Theoretical
+Constriction
+Immobilization
+Anthropometry
+Indicator Dilution Techniques
+Chromophore-Assisted Light Inactivation
+Technology, Radiologic
+Psychological Techniques
+Neuromuscular Blockade
+Automation, Laboratory
+Decision Support Techniques
+Accelerometry
+Electrochemical Techniques
+Molecular Probe Techniques
+Optical Imaging
+Intubation
+Isolated Heart Preparation
+Interferometry
+Dermatoglyphics
+Neuroimaging
+Telemetry
+Equipment Design
+Food Analysis
+Stereotaxic Techniques
+Drug Discovery
+Autoanalysis
+Dilatation
+Sound Spectrography
+Isotope Labeling
+Games, Experimental
+Photoacoustic Techniques
+Fetal Research
+Physiognomy
+Protein Unfolding
+Ischemic Preconditioning
+Genetic Techniques
+Bone Demineralization Technique
+Oscillometry
+Oxygen Radical Absorbance Capacity
+Chemistry Techniques, Synthetic
+Protein Refolding
+Sonication
+Reproductive Techniques
+Fourier Analysis
+Evaluation Studies as Topic
+Manometry
+Technology, Pharmaceutical
+Materials Testing
+Toxicity Tests
+Animal Experimentation
+In Vitro Techniques
+Chemistry Techniques, Analytical
+Animal Identification Systems
+Whole-Body Irradiation
+Bioprinting
+Rheology
+Perfusion
+Glycolipids
+Lipopolysaccharides
+Ceroid
+Fats
+Lipofuscin
+Fatty Alcohols
+Glycerides
+Lipid Peroxides
+Polyhydroxyalkanoates
+Oils
+Membrane Lipids
+Lipoproteins
+Lipopeptides
+Fatty Acids
+Waxes
+Multiprotein Complexes
+Micelles
+Polymers
+Protein Aggregates
+Urogenital Abnormalities
+Genital Diseases, Male
+Tuberculosis, Urogenital
+Urologic Diseases
+Urogenital Neoplasms
+Pelvic Floor Disorders
+Wavelet Analysis
+Game Theory
+Stochastic Processes
+Decision Theory
+Sensitivity and Specificity
+Probability
+Neural Networks (Computer)
+Fractals
+Nomograms
+Fourier Analysis
+Algorithms
+Statistical Distributions
+Neurodevelopmental Disorders
+Substance-Related Disorders
+Personality Disorders
+Feeding and Eating Disorders
+Neurocognitive Disorders
+Motor Disorders
+Somatoform Disorders
+Sexual Dysfunctions, Psychological
+Mood Disorders
+Dissociative Disorders
+Trauma and Stressor Related Disorders
+Disruptive, Impulse Control, and Conduct Disorders
+Bipolar and Related Disorders
+Paraphilic Disorders
+Sleep Wake Disorders
+Schizophrenia Spectrum and Other Psychotic Disorders
+Anxiety Disorders
+Neurotic Disorders
+Elimination Disorders
+Peptide Biosynthesis
+Dimerization
+Prenylation
+Brain Chemistry
+Phototrophic Processes
+Dealkylation
+Amination
+Heterotrophic Processes
+Anaerobiosis
+Body Composition
+Energy Metabolism
+Metabolic Networks and Pathways
+Autotrophic Processes
+Deamination
+Acid-Base Equilibrium
+Osmoregulation
+Hydroxylation
+Proteolysis
+Absorption
+Metabolic Clearance Rate
+Oxygen Consumption
+Acylation
+Toxicokinetics
+Enterohepatic Circulation
+Enzyme Activation
+Metabolome
+Alkylation
+Secretory Rate
+Halogenation
+Phosphorylation
+Biological Transport
+Decarboxylation
+RNA Processing, Post-Transcriptional
+Aerobiosis
+Biotinylation
+Lipid Metabolism
+Biotransformation
+Cell Respiration
+Protein Binding
+Cyclization
+Biocatalysis
+Esterification
+Nitrosation
+Renin-Angiotensin System
+Oxidative Stress
+Carbohydrate Metabolism
+Hydrogenation
+Pharmacokinetics
+Catabolite Repression
+Bacterial Physiological Phenomena
+Nitrogen Fixation
+Microbial Viability
+Virulence
+Virus Physiological Phenomena
+Biofilms
+Microbiota
+Hemadsorption
+Drug Resistance, Microbial
+Microbial Interactions
+Germ-Free Life
+Host-Pathogen Interactions
+Catabolite Repression
+Nervous System Physiological Phenomena
+Musculoskeletal Physiological Phenomena
+Musculoskeletal Abnormalities
+Hand Deformities
+Jaw Diseases
+Bone Diseases
+Rheumatic Diseases
+Fasciitis
+Foot Diseases
+Muscular Diseases
+Cartilage Diseases
+Joint Diseases
+Foot Deformities
+Tendons
+Muscles
+Chemistry
+Nanotechnology
+Biological Science Disciplines
+Neoplasms, Radiation-Induced
+Neoplasms, Post-Traumatic
+Neoplasms, Hormone-Dependent
+Neoplastic Syndromes, Hereditary
+Neoplasms by Site
+Neoplasms, Multiple Primary
+Neoplastic Processes
+Precancerous Conditions
+Neoplasms by Histologic Type
+Neoplasms, Second Primary
+Pregnancy Complications, Neoplastic
+Hamartoma
+Paraneoplastic Syndromes
+Cysts
+Neoplasms, Experimental
+Peripheral Nervous System
+Neuroglia
+Neurons
+Neural Pathways
+Synapses
+Central Nervous System
+Ganglia
+Neurosecretory Systems
+Nerve Net
+Chronobiology Disorders
+Cranial Nerve Diseases
+Autoimmune Diseases of the Nervous System
+Trauma, Nervous System
+Neurologic Manifestations
+Nervous System Malformations
+Neurocutaneous Syndromes
+Demyelinating Diseases
+Sleep Wake Disorders
+Central Nervous System Diseases
+Restless Legs Syndrome
+Neurotoxicity Syndromes
+Nervous System Neoplasms
+Neurodegenerative Diseases
+Neuromuscular Diseases
+Autonomic Nervous System Diseases
+Restaurants
+Residential Facilities
+Museums
+Sports and Recreational Facilities
+Toilet Facilities
+Schools
+Information Centers
+Manufacturing and Industrial Facilities
+Transportation Facilities
+Laboratories
+Housing
+Child Day Care Centers
+Senior Centers
+Cemeteries
+Prisons
+Sheltered Workshops
+Private Facilities
+Adult Day Care Centers
+Military Facilities
+Gardens
+Religious Missions
+Public Facilities
+Nucleic Acids
+Nucleosides
+Nucleic Acid Precursors
+Nucleotides
+Antisense Elements (Genetics)
+Nutrition Disorders
+Metabolic Diseases
+Pneumoconiosis
+Persian Gulf Syndrome
+Hand-Arm Vibration Syndrome
+Laboratory Infection
+Burnout, Professional
+High Pressure Neurological Syndrome
+Sleep Disorders, Circadian Rhythm
+Agricultural Workers' Diseases
+Dermatitis, Occupational
+Bird Fancier's Lung
+Inert Gas Narcosis
+Asthma, Occupational
+Eye Color
+Vision, Ocular
+Flicker Fusion
+Visual Acuity
+Dominance, Ocular
+Figural Aftereffect
+Optic Flow
+Refraction, Ocular
+Blinking
+Intraocular Pressure
+Ocular Absorption
+Visual Fields
+Adaptation, Ocular
+Eye Movements
+Evoked Potentials, Visual
+Afterimage
+Accommodation, Ocular
+Lacrimal Elimination
+Glare
+Vision Disparity
+Sulfur Compounds
+Hydrocarbons
+Azo Compounds
+Lewis Bases
+Organophosphorus Compounds
+Ethers
+Nitro Compounds
+Isocyanates
+Anhydrides
+Boron Compounds
+Triazenes
+Imines
+Catenanes
+Hydrazines
+Organoselenium Compounds
+Nitrates
+Free Radicals
+Cyanates
+Amidines
+Ketones
+Dioxins and Dioxin-like Compounds
+Aza Compounds
+Organometallic Compounds
+Organosilicon Compounds
+Nitrites
+Onium Compounds
+Amines
+Nitriles
+Volatile Organic Compounds
+Lactones
+Amides
+Rotaxanes
+Quinones
+Lewis Acids
+Alcohols
+Urea
+Imides
+Semicarbazides
+Azides
+Carboxylic Acids
+Aldehydes
+Nitroso Compounds
+Mycorrhizae
+Lichens
+Spores
+Microfilariae
+Hermaphroditic Organisms
+Atypical Bacterial Forms
+Life Cycle Stages
+Chimera
+Extremophiles
+Aquatic Organisms
+Organisms, Genetically Modified
+Sentinel Species
+Endophytes
+Blood-Borne Pathogens
+Otorhinolaryngologic Neoplasms
+Ear Diseases
+Ciliary Motility Disorders
+Nose Diseases
+Pharyngeal Diseases
+Laryngeal Diseases
+Pregnancy Complications, Parasitic
+Mesomycetozoea Infections
+Opportunistic Infections
+Helminthiasis
+Parasitic Diseases, Animal
+Parasitemia
+Intestinal Diseases, Parasitic
+Liver Diseases, Parasitic
+Eye Infections, Parasitic
+Lung Diseases, Parasitic
+Coinfection
+Protozoan Infections
+Skin Diseases, Parasitic
+Central Nervous System Parasitic Infections
+Zoonoses
+Morphological and Microscopic Findings
+Pathologic Processes
+Signs and Symptoms
+Pathological Conditions, Anatomical
+Students
+Pedestrians
+Legal Guardians
+Volunteers
+Transients and Migrants
+Spouses
+Emigrants and Immigrants
+Homeless Persons
+Grandparents
+Population Groups
+Visitors to Patients
+Minors
+Child, Orphaned
+Men
+Homebound Persons
+Age Groups
+Women
+Transplant Recipients
+Single Person
+Disaster Victims
+Sexual Minorities
+Athletes
+Refugees
+Sexual Partners
+Tissue Donors
+Abortion Applicants
+Patients
+Child, Unwanted
+Vulnerable Populations
+Vegetarians
+Caregivers
+Consultants
+Criminals
+Child, Exceptional
+Disabled Persons
+Missionaries
+Child of Impaired Parents
+Mentors
+Prisoners
+Famous Persons
+Research Subjects
+Parents
+Medically Uninsured
+Drug Users
+Crime Victims
+Jehovah's Witnesses
+Alcoholics
+Slaves
+Working Poor
+Occupational Groups
+Survivors
+Siblings
+Sex Workers
+Veterans
+Adult Children
+Child, Abandoned
+Multiple Birth Offspring
+Friends
+Terminally Ill
+Placebos
+Dosage Forms
+Nonprescription Drugs
+Medical Marijuana
+Prescription Drugs
+Drugs, Investigational
+Pharmaceutical Preparations, Dental
+Materia Medica
+Designer Drugs
+Prodrugs
+Solutions
+Xenobiotics
+Veterinary Drugs
+Drug Combinations
+Nostrums
+Drugs, Generic
+Pharmaceutic Aids
+Drugs, Chinese Herbal
+Plant Extracts
+Cosmeceuticals
+Counterfeit Drugs
+Controlled Substances
+Drugs, Essential
+Street Drugs
+Time
+Geological Phenomena
+Magnetic Phenomena
+Scattering, Radiation
+Astronomical Phenomena
+Motion
+Absorption
+Radiation
+Elementary Particle Interactions
+Biophysical Phenomena
+Phase Transition
+Diffusion
+Elementary Particles
+Optical Phenomena
+Doppler Effect
+Radioactivity
+Hydrodynamics
+Filtration
+Thermodynamics
+Adsorption
+Mechanical Phenomena
+Nuclear Energy
+Stress, Physiological
+Homeostasis
+Dose-Response Relationship, Radiation
+Longevity
+Organ Specificity
+Movement
+Anatomic Variation
+Adaptation, Physiological
+Fetal Viability
+Bacterial Shedding
+Diet, Food, and Nutrition
+Fluid Shifts
+Virus Shedding
+Thermosensing
+Body Constitution
+Radiation Tolerance
+Body Temperature
+Electrophysiological Phenomena
+Growth and Development
+Pharmacological and Toxicological Phenomena and Processes
+Chronobiology Phenomena
+Germination
+Plant Dispersal
+Plant Diseases
+Plant Development
+Parthenogenesis
+Gravity Sensing
+Photosynthesis
+Plant Infertility
+Plant Root Nodulation
+Plant Transpiration
+Self-Fertilization
+Tropism
+Gametogenesis, Plant
+Etiolation
+Plant Somatic Embryogenesis Techniques
+Self-Incompatibility in Flowering Plants
+Organogenesis, Plant
+Plant Immunity
+Pollination
+Seed Dispersal
+Plant Roots
+Seedlings
+Plant Vascular Bundle
+Sporangia
+Plant Components, Aerial
+Chromosomes, Plant
+Spiro Compounds
+Bridged-Ring Compounds
+Macrocyclic Compounds
+Polycyclic Aromatic Hydrocarbons
+Fused-Ring Compounds
+Demography
+Population
+Health
+Socioeconomic Factors
+Mental Competency
+Personal Autonomy
+Psychophysiology
+Religion and Psychology
+Resilience, Psychological
+Parapsychology
+Psychomotor Performance
+Social Theory
+Mental Health
+Psycholinguistics
+Psychology, Applied
+Mental Processes
+Psychological Theory
+Comment
+Bibliography
+Biography
+Bookplates
+English Abstract
+Book Illustrations
+Letter
+Animation
+Electronic Supplementary Materials
+Retraction of Publication
+Abstracts
+Architectural Drawings
+News
+Charts
+Editorial
+Advertisements
+Published Erratum
+Patient Education Handout
+Encyclopedias
+Catalogs
+Congresses
+Study Guide
+Poetry
+Formularies
+Monograph
+Comment
+Dataset
+Bibliography
+Annual Reports
+Tables
+Public Service Announcements
+Technical Report
+Lecture Notes
+Diaries
+Book Reviews
+Biography
+Periodicals
+Outlines
+Essays
+Historical Article
+Popular Works
+Government Publications
+Account Books
+Collections
+Incunabula
+Overall
+Webcasts
+Indexes
+Instructional Films and Videos
+Laboratory Manuals
+Ephemera
+Dictionary
+Statistics
+Guideline
+Atlases
+Chronology
+Letter
+Cookbooks
+Unedited Footage
+Classical Article
+Broadsides
+Resource Guides
+Nurses' Instruction
+Abbreviations
+Handbooks
+Calendars
+Pharmacopoeias
+Review
+Documentaries and Factual Films
+Retracted Publication
+Animation
+Exhibitions
+Newspaper Article
+Retraction of Publication
+Corrected and Republished Article
+Graphic Novels
+Programmed Instruction
+Abstracts
+Unpublished Works
+Pictorial Works
+Academic Dissertations
+Manuscripts
+Collected Works
+Legal Cases
+Architectural Drawings
+Photographs
+Humor
+News
+Almanacs
+Eulogies
+Periodical Index
+Fictional Works
+Patents
+Aphorisms and Proverbs
+Anecdotes
+Charts
+Editorial
+Postcards
+Database
+Video-Audio Media
+Examination Questions
+Forms
+Journal Article
+Union Lists
+Problems and Exercises
+Published Erratum
+Meeting Abstracts
+Legislation
+Directory
+Addresses
+Duplicate Publication
+Guidebooks
+Reproductive Physiological Phenomena
+Urinary Tract Physiological Phenomena
+Respiratory Mucosa
+Larynx
+Pharynx
+Pleura
+Lung
+Nose
+Trachea
+Respiratory Tract Infections
+Pleural Diseases
+Respiratory Tract Fistula
+Tracheal Diseases
+Ciliary Motility Disorders
+Respiratory System Abnormalities
+Lung Diseases
+Thoracic Diseases
+Respiration Disorders
+Granuloma, Respiratory Tract
+Nose Diseases
+Respiratory Hypersensitivity
+Respiratory Tract Neoplasms
+Bronchial Diseases
+Laryngeal Diseases
+Eye
+Nose
+Ear
+Taste Buds
+Skin Diseases
+Connective Tissue Diseases
+Policy
+Government
+Economics
+Government Programs
+Environment Design
+Demography
+Internationality
+Anthropology
+Forecasting
+Public Sector
+Politics
+Criminology
+Quality of Life
+Sociology
+Political Systems
+Private Sector
+Work-Life Balance
+Mouth Diseases
+Temporomandibular Joint Disorders
+Jaw Diseases
+Ankyloglossia
+Stomatognathic System Abnormalities
+Pharyngeal Diseases
+Tooth Diseases
+Cheek
+Pharynx
+Mouth
+Jaw
+Facial Muscles
+Temporomandibular Joint
+Masticatory Muscles
+Evaluation Studies
+Twin Study
+Clinical Study
+Case Reports
+Validation Studies
+Scientific Integrity Review
+Clinical Conference
+Comparative Study
+Consensus Development Conference
+Meta-Analysis
+Multicenter Study
+Research Support, U.S. Government
+Research Support, Non-U.S. Gov't
+Decompression, Surgical
+Fasciotomy
+Prosthesis Implantation
+Body Modification, Non-Therapeutic
+Deep Brain Stimulation
+Device Removal
+Laparotomy
+Obstetric Surgical Procedures
+Perioperative Period
+Biopsy
+Splenectomy
+Neurosurgical Procedures
+Symphysiotomy
+Bariatric Surgery
+Otorhinolaryngologic Surgical Procedures
+Cytoreduction Surgical Procedures
+Perioperative Care
+Extracorporeal Circulation
+Digestive System Surgical Procedures
+Ligation
+Ambulatory Surgical Procedures
+Bloodless Medical and Surgical Procedures
+Minimally Invasive Surgical Procedures
+Transplantation
+Orthopedic Procedures
+Debridement
+Electrosurgery
+Urogenital Surgical Procedures
+Lymph Node Excision
+Dissection
+Oral Surgical Procedures
+Ultrasonic Surgical Procedures
+Endocrine Surgical Procedures
+Elective Surgical Procedures
+Cardiovascular Surgical Procedures
+Hemostasis, Surgical
+Ostomy
+Reconstructive Surgical Procedures
+Surgery, Computer-Assisted
+Anastomosis, Surgical
+Mastectomy
+Assisted Circulation
+Minor Surgical Procedures
+Prophylactic Surgical Procedures
+Pelvic Exenteration
+Ophthalmologic Surgical Procedures
+Thoracic Surgical Procedures
+Reoperation
+Ablation Techniques
+Wound Closure Techniques
+Curettage
+Metastasectomy
+Monitoring, Intraoperative
+Second-Look Surgery
+Microsurgery
+Drainage
+Punctures
+Household Articles
+Manufactured Materials
+Industry
+Agriculture
+Commerce
+Military Science
+Architecture as Topic
+Household Products
+Natural Resources
+Conservation of Natural Resources
+Transportation
+Technology
+Power Plants
+Engineering
+Renal Replacement Therapy
+Self Care
+Placebos
+Rehabilitation
+Sex Reassignment Procedures
+Patient Isolation
+Insufflation
+Radiotherapy
+Behavior Control
+Electric Stimulation Therapy
+Laser Therapy
+Chronotherapy
+Prosthesis Fitting
+Clinical Protocols
+Directly Observed Therapy
+Pain Management
+Hygiene
+Nutrition Therapy
+Magnetic Field Therapy
+Therapy with Helminths
+Phototherapy
+Complementary Therapies
+Delayed Diagnosis
+Blood Component Removal
+Feeding Methods
+Preservation, Biological
+Bariatrics
+Rewarming
+Retreatment
+Ischemic Postconditioning
+Theranostic Nanomedicine
+Catheterization
+Cryotherapy
+Therapeutic Occlusion
+Orthopedic Procedures
+Sorption Detoxification
+Decompression
+Therapies, Investigational
+Patient Care
+Hyperthermia, Induced
+Secondary Prevention
+Intubation
+Respiratory Therapy
+Orthokeratologic Procedures
+Rejuvenation
+Airway Management
+Salvage Therapy
+Hemodilution
+Bed Rest
+Ischemic Preconditioning
+Leeching
+Patient Care Bundles
+Drug Therapy
+Tertiary Prevention
+Cautery
+Precision Medicine
+Climatotherapy
+Mechanical Thrombolysis
+Apitherapy
+Physical Therapy Modalities
+Organ Sparing Treatments
+Fetal Therapies
+Hemostatic Techniques
+Orthoptics
+Reproductive Techniques
+Lithotripsy
+Conservative Treatment
+Cosmetic Techniques
+Balneology
+Drainage
+Biological Therapy
+Emergency Treatment
+Punctures
+Combined Modality Therapy
+Therapy, Computer-Assisted
+Remission Induction
+Acoustic Stimulation
+Epithelium
+Surgically-Created Structures
+Body Fluid Compartments
+Organoids
+Exocrine Glands
+Lymphoid Tissue
+Nerve Tissue
+Connective Tissue
+Membranes
+Peritoneal Stomata
+Margins of Excision
+Muscles
+Parenchymal Tissue
+Genitalia
+Urinary Tract
+Virion
+Encephalitis, Viral
+Tumor Virus Infections
+Eye Infections, Viral
+Arbovirus Infections
+Hepatitis, Viral, Human
+DNA Virus Infections
+Slow Virus Diseases
+RNA Virus Infections
+Opportunistic Infections
+Skin Diseases, Viral
+Viremia
+Hepatitis, Viral, Animal
+Central Nervous System Viral Diseases
+Sexually Transmitted Diseases
+Fatigue Syndrome, Chronic
+Bronchiolitis, Viral
+Coinfection
+Pneumonia, Viral
+Zoonoses
+Hepatitis Viruses
+Viruses, Unclassified
+Oncogenic Viruses
+Reassortant Viruses
+Plant Viruses
+Insect Viruses
+Arboviruses
+Defective Viruses
+Helper Viruses
+Proviruses
+Archaeal Viruses
+Fungal Viruses
+Virion
+DNA Viruses
+Viroids
+Bacteriophages
+RNA Viruses
+Oncolytic Viruses
+Contrecoup Injury
+Foreign Bodies
+Cold Injury
+Retropneumoperitoneum
+Neck Injuries
+Fractures, Cartilage
+Drowning
+Tooth Injuries
+Birth Injuries
+Spinal Cord Injuries
+Arm Injuries
+Barotrauma
+Joint Dislocations
+Tendon Injuries
+Self Mutilation
+Back Injuries
+Multiple Trauma
+Radiation Injuries
+Extravasation of Diagnostic and Therapeutic Materials
+Rupture
+Trauma, Nervous System
+Frostbite
+Fractures, Bone
+Sprains and Strains
+Occupational Injuries
+Heat Stress Disorders
+Tympanic Membrane Perforation
+Electric Injuries
+Vascular System Injuries
+Wounds, Penetrating
+War-Related Injuries
+Amputation, Traumatic
+Shock, Traumatic
+Hand Injuries
+Athletic Injuries
+Leg Injuries
+Esophageal Perforation
+Hip Injuries
+Lacerations
+Battered Child Syndrome
+Wounds, Nonpenetrating
+Shoulder Injuries
+Asphyxia
+Abdominal Injuries
+Bites and Stings
+Nasal Septal Perforation
+Crush Injuries
+Burns
+Surgical Wound
+Thoracic Injuries
+Microtrauma, Physical
+Soft Tissue Injuries
