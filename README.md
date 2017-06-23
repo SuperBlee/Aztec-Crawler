@@ -14,9 +14,12 @@ It downloads the medical-related vocabularies from [here](http://bioportal.bioon
 ## Usage
 Just do
 ```
-python main.py <number of level>
+python main.py <number of layer>
 ```
 and it can generate out put in `results/vocabs.txt` and `results/syn.txt`.
+
+`layer` is the number of hierarchical layers of the vocabularies.
+
 The `vocabs.txt` is a file of all vocabulary and `syn.txt` gives the __word - synonyms__ relations.
 The `onto.txt` gives all the single lemmatized words in `vocabs.txt`.
 
